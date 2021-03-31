@@ -87,8 +87,7 @@ func main() {
 }
 
 var (
-	usage = `gson: 
-gson is a tool to format and compress json from a json file or string
+	usage = `gson is a tool to format and compress json from a json file or string
 Usage: 
 	-b 		beautiful output the json file
 	-w 		overwrite the file
